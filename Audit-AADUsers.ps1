@@ -29,7 +29,7 @@
 
     .Example
 
-    Audit-AADUsers.ps1 -clientID [CLIENTID of APPLICATION] -tenantName [TENANT NAME contoso.onmicrosoft.com] -ClientSecret  [SECRET ID of APPLICATION] -TenantId [TENANT ID]
+    Audit-AADUsers.ps1 -clientID [CLIENTID of APPLICATION] -tenantName [TENANT NAME contoso.onmicrosoft.com] -ClientSecret [SECRET ID of APPLICATION] -TenantId [TENANT ID]
 #>
 
 #########################################################################################################################
